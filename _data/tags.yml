@@ -1,0 +1,11 @@
+- slug: jekyll
+  name: Jekyll
+
+- slug: documentation
+  name: Documentation
+
+- slug: git
+  name: Git
+
+- slug: general
+  name: General

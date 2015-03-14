@@ -1,12 +1,12 @@
-# Dependencies
+﻿# Dependencies
 markdown: redcarpet
 highlighter: pygments
 # Permalinks
 permalink:        pretty
 relative_permalinks: true
-
+encoding: utf-8
 # Setup
-title:            நல்ல  வெப்சைட்
+title:            'நல்ல  வெப்சைட்'
 tagline:            'தமிழர்களுக்காக தமிழரால் தமிழில் நல்ல வெப்சைட்...' 
 description:      'Blog of jeno karthic'
 url:              http://nallawebsite.com

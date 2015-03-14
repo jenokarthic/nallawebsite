@@ -9,3 +9,21 @@
 
 - slug: general
   name: General
+  
+- slug: இலக்கியம்
+  name: இலக்கியம்
+  
+- slug: கலை
+  name: கலை
+  
+- slug: தொழில்
+  name: தொழில்
+
+- slug: பொருளாதாரம்
+  name: பொருளாதாரம்
+  
+- slug: வாழ்வியல்
+  name: வாழ்வியல்
+
+- slug: பொது
+  name: பொது

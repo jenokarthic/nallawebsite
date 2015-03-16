@@ -11,7 +11,7 @@ tagline:            'தமிழர்களுக்காக தமிழர�
 description:      'Blog of jeno karthic'
 url:              http://nallawebsite.com
 baseurl:          /
-disqus:              jenokarthicblog
+disqus:              nallawebsite
 author:
   name:           'Jeno Karthic'
   url:            https://twitter.com/jenokarthic

@@ -2,6 +2,7 @@
 layout: post
 title: வாழ்க்கை மாரத்தான் அல்ல, புதிர்!
 tags: [வாழ்வியல்]
+image: http://oliveremberton.com/wp-content/uploads/2014/01/Maze-1-1024x663.png
 excerpt_separator: <!--more-->
 ---
 மாரத்தானில் ஒரு தொடக்கம் இருக்கும், ஒரு முடிவு இருக்கும், நீங்கள் செய்ய வேண்டியது, முன்னோக்கி ஓடுவது.

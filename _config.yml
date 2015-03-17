@@ -12,6 +12,7 @@ description:      'Blog of jeno karthic'
 url:              http://nallawebsite.com
 baseurl:          /
 disqus:              nallawebsite
+twitter_username:              jenokarthic
 author:
   name:           'Jeno Karthic'
   url:            https://twitter.com/jenokarthic

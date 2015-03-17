@@ -13,7 +13,11 @@ title: Home
     </h1>
 {% include tag_collector.html tag_separator=',' %}
 <span class="post-date">{{ post.date | date_to_string }} | {{ tag_list }}</span>
-    {{ post.excerpt }}
+    {% if post.content contains '<!--more-->' %}
+    {{ post.content | split:'<!--more-->' | first }}
+{% else %}
+    <!-- Case for when no excerpt is defined -->
+{% endif %}
     <a href="{{ post.url }}" class="read-more">மேலும் அறிய...</a>
     <hr/>
  </div>

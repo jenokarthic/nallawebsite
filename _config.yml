@@ -2,8 +2,8 @@
 markdown: redcarpet
 highlighter: pygments
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:        /:title/
+
 encoding: utf-8
 # Setup
 title:            'நல்ல  வெப்சைட்'

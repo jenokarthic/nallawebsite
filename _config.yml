@@ -7,8 +7,8 @@ permalink:        /:title/
 encoding: utf-8
 # Setup
 title:            'நல்ல  வெப்சைட்'
-tagline:            'தமிழர்களுக்காக தமிழரால் தமிழில் நல்ல வெப்சைட்...' 
-description:      'Blog of jeno karthic'
+tagline:            'வாழ்வியல் முன்னேற்றத் தளம்' 
+description:      'தமிழில் மற்றொரு தளம்'
 url:              http://nallawebsite.com
 baseurl:          /
 disqus:              nallawebsite

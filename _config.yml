@@ -12,10 +12,10 @@ description:      'தமிழில் மற்றொரு தளம்'
 url:              http://nallawebsite.com
 baseurl:          /
 disqus:              nallawebsite
-twitter_username:              jenokarthic
+twitter_username:              nallawebsite
 author:
   name:           'Jeno Karthic'
-  url:            https://twitter.com/jenokarthic
+  url:            https://twitter.com/nallawebsite
 
 paginate:         5
 

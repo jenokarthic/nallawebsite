@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
 {% include tag_collector.html tag_separator=',' %}
-<span class="post-date">{{ post.date | date_to_string }} | {{ tag_list }} | {{ page.content | number_of_words | divided_by:90 }} நிமிடத்தில் வாசித்திடலாம்</span>
+<span class="post-date">{{ post.date | date_to_string }} | {{ tag_list }} | {{ post.content | number_of_words | divided_by:90 }} நிமிடத்தில் வாசித்திடலாம்</span>
     {{ post.excerpt }}
     <a href="{{ post.url }}" class="read-more">மேலும் அறிய...</a>
     <hr/>

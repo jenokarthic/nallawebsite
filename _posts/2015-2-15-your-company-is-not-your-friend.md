@@ -1,6 +1,6 @@
 ---
 layout: post
-publish: false
+published:false
 title: நீங்கள் வேலை செய்யும் நிறுவனம் உங்களுடைய நண்பர் அல்ல
 tags: [பொது]
 ---

@@ -7,7 +7,7 @@ permalink:        /:title/
 encoding: utf-8
 # Setup
 title:            'நல்ல  வெப்சைட் | Nalla website'
-tagline:            'வாழ்வியல் முன்னேற்றத் தளம் -' 
+tagline:            'வாழ்வியல் முன்னேற்றத் தளம்' 
 description:      'தமிழில் மற்றொரு தளம்'
 url:              http://nallawebsite.com
 baseurl:          /
